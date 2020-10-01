@@ -61,7 +61,7 @@ export default function MediaCard() {
             Location: Gurgaon
           </Typography>
           <Typography className={classes.grid_2} variant="h6">
-            Stipend: 20000 /Month
+            Stipend: 20000 per Month
           </Typography>
         </Grid>
       </Grid>
